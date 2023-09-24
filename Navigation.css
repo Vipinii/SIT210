@@ -1,0 +1,42 @@
+/* Navigation.css */
+.post-button {
+  background-color: black;
+  color: white;
+}
+
+.login-button {
+  background-color: black;
+  color: white;
+}
+.navbar-brand{
+  font-size: 29px;
+  color: black
+}
+/* Navigation.css */
+body {
+  background-image: url('../images/deakin1.jpeg'); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+.welcome-text {
+  text-align: center;
+ 
+}
+
+.welcome-text h1 {
+  font-size: 55px;
+
+}
+
+.welcome-text p {
+  font-size: 18px;
+}
+.navbar {
+  background-color: #dfdfdf; 
+  color: white; /* Text color for the navigation bar */
+  margin-bottom: 545px;
+}
+
